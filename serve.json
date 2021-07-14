@@ -1,0 +1,5 @@
+{
+    "rewrites": [
+      { "source": "login/callback", "destination": "/index.html" }
+    ]
+}
