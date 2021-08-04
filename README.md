@@ -38,7 +38,7 @@ Run it, using the `serve` and custom properties defined in `serve.json` file.
 npx serve -l 8080 -c serve.json
 ```
 
-Navigate to `http://localhost:8080` with your prefer Browser. You will prompted for Username and then Password. Use an user that exist in that Okta Org that you have configured. Using Browser dev tool, ie (`Inspect`) after a successful sign in, the console should identify the `id_token` that was minted by Okta Authorization Server.
+Navigate to `http://localhost:8080` with your prefer Browser. You will prompted for Username and then Password. Use an user that exist in that Okta Org that you have configured. Using Browser dev tool, ie (Right-click > `Inspect`) after a successful sign in, the console should identify the `id_token` that was minted by Okta Authorization Server.
 
 ## Author
 
